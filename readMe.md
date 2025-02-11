@@ -1,0 +1,2 @@
+This project takes data from a landmark field experiment conducted by Bertrand and Mullainathan (2004). In this randomized controlled experiment, 4,870 fictitious résumés were sent in response to real employment advertisements in Chicago and Boston
+during 2001. This study hoped to see if the ethnicty of a person's name affects their likelyhood of being called by to an interview. The data was analysed and a full report drawn up in report.pdf.
